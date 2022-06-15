@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<plugin name="replaceexportcsv" version="0.1" active="1">
+  <author>Jeremy Dufraisse</author>
+  <label>Replace export csv button</label>
+  <desc>Permet de remplacer le comportement du bouton d'export CSV dans bazar</desc>
+</plugin>
